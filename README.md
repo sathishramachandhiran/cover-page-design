@@ -140,7 +140,7 @@ cover.html
 
 ## Output:
 
-![Output](/cover-page-design/coverpage.png)
+![Output](coverpage.png)
 
 ## Result:
 The program for designing book front cover page using HTML and CSS is completed successfully.
